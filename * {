@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Portfolio</title>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header class="myname"> 
+      <h1>Caryn<h1>
+        <nav>
+        <ul>
+            <li>
+                <a href="#About-me">About Me</a>
+            </li> 
+            <li>
+                <a href="#My-work">My Work</a>
+            </li> 
+            <li>
+                <a href="#Contact-me">Contact Me</a>
+            </li> 
+        </ul>
+    </nav>
+</header>
+
+<section class="hero">
+    <div class="hero-text">
+        <h2>I am Caryn</h2>
+        <p>I'm looking to become a Full-Stack Developer!</p>
+    </div>
+</section>
+
+    <main>
+
+    <div class="flex-container1">
+    <section id="About-me">
+    <div class="content-title1">
+    <h3>About me</h3> 
+    </div> 
+    <div class="aboutmetext">
+        <p>Location: Chicago</p> 
+        <p>Bio: Bio</p>
+    </div>
+    </section>
+    </div>
+      
+
+      <div class="flex-container3">
+      <section id="Contact-me">
+        <div class="content-title3">
+        <h3>Contact Me</h3>
+        </div>
+        <div class="contact-info">
+            
+            <section>
+            <h4>My LinkedIn</h4>
+            <a href="LinkedIN" target="_blank" class="github-link">LinkedIn</a>
+            </section>
+        
+            <section>
+            <h4>My phone number</h4>
+            <p>13431</p>
+            </section>
+            
+            <section>
+            <a href="Github" target="_blank" class="github-link">Git Hub</a>
+            </section>
+            
+        </div>
+      
+        </div>
+    </section>
+        </div>
+
+    </section>
+    
+</main>
+</body>
+
+</html>

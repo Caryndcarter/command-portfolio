@@ -1,0 +1,17 @@
+{
+  "name": "00-caryn",
+  "version": "1.0.0",
+  "main": "mini-project.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^11.0.1"
+  }
+}
